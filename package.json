@@ -1,0 +1,22 @@
+{
+  "name": "asincronismojs",
+  "version": "1.0.0",
+  "description": "\"Curso de aincronismo de Platzi\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Silverzid/AsincronismoJS.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Nelson Montenegro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Silverzid/AsincronismoJS/issues"
+  },
+  "homepage": "https://github.com/Silverzid/AsincronismoJS#readme"
+}
